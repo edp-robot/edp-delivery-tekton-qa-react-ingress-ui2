@@ -1,0 +1,1 @@
+1. Application react-ingress-ui2 has been successfully deployed!!
